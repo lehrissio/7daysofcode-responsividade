@@ -1,6 +1,6 @@
 # Projeto - 7DaysOfCode - Responsividade
 
-![Responsividade](https://github.com/lehrissio/7daysofcode-responsividade/assets/103052994/53184bae-8da3-4e81-9bb9-2b6a07ae841f)
+![responsividade](https://github.com/lehrissio/7daysofcode-responsividade/assets/103052994/095949a6-269a-4e05-aa4d-8861f762bd37)
 
 
 ## Ferramentas Utilizadas
