@@ -1,0 +1,26 @@
+.profile {
+    margin-top: 1.5em;
+    display: flex;
+    align-items: center;
+    padding-left: 1.7em;
+    padding-top: 1.2em;
+}
+
+.profile__image {
+    border-radius: 50%;
+    width: 4em;
+}
+
+.profile__info {
+    margin-left: 1em;
+}
+
+.profile__info h1 {
+    font-size: 1.375rem;
+    font-weight: 700;
+    margin-bottom: 0.6em;
+}
+
+.profile__info p {
+    color: var(--light-gray);
+}

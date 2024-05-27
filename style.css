@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+@import url(./styles/profile.css);
+@import url(./styles/schdules.css);
+@import url(./styles/footer.css);
+@import url(./styles/floatbutton.css);
+
+
+
+/* regular = 400
+medium = 500
+bold = 700*/
+
+:root {
+    /*fonts*/
+    --main-font: "Montserrat", sans-serif;
+
+    /*font colors*/
+    --main-color: #464646;
+    --light-gray: #A3A3A3;
+    --border: #ECECEC;
+    --button-color: #FFB050;
+    --second-button-color: #4894FF;
+    --background: #F6F6F6;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--background);
+}
+
+main {
+    font-family: var(--main-font);
+    font-size: 0.875rem;
+    color: var(--main-color);
+}

@@ -1,0 +1,121 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 4em;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 1em 1em 0 0;
+    filter: drop-shadow(0 -1px 3px #46464625);
+    margin: 0;
+    padding: 0;
+}
+
+.footer nav {
+    width: 100%;
+    padding: 0 1.5em;
+}
+
+.footer nav>ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1em;
+}
+
+.footer__action {
+    font-family: var(--main-font);
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__action span {
+    margin-bottom: 0.5em;
+}
+
+.schedules__icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url(../assets/calendario.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#first {
+    color: var(--second-button-color);
+}
+
+.client__icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url(../assets/clientes.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.reports__icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url(../assets/relatorios.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.menu__icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url(../assets/menu.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 768px) {
+    .footer nav>ul {
+        justify-content: center;
+        gap: 3em;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .footer {
+        height: 100%;
+        width: 15%;
+        align-items: start;
+        padding-top: 1.7em;
+    }
+
+    .schedules, .profile {
+        margin-left: 15%;
+    }
+
+    .footer nav {
+        width: 100%;
+        padding: 0 1em;
+    }
+
+    .footer nav>ul {
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        gap: 0em;
+        flex-direction: column;
+    }
+
+    .footer__action {
+        flex-direction: row;
+        text-align: center;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .footer__action span {
+        margin-bottom: 0;
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+}
