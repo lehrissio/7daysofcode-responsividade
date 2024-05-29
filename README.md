@@ -2,8 +2,6 @@
 
 ![responsividade](https://github.com/lehrissio/7daysofcode-responsividade/assets/103052994/ae6b5936-a98b-421e-9376-e56596c9fdfc)
 
-
-
 ## Ferramentas Utilizadas
   * HTML e CSS
   * Grid
@@ -36,6 +34,6 @@ Todos os dias os desafios foram enviados, sendo eles:
 > No sétimo e último dia do desafio, você irá tornar a sua aplicação disponível de forma pública na internet. A sua tarefa será hospedar a sua página na nuvem, para que outras pessoas possam acessá-la e ela se torne acessível como um portfólio. Você irá fechar com chave de ouro!
 
 ### Conclusão:
-Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "A partir do Zero: HTML e CSS para Projetos Web" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
+Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
 
 [Link do Desafio](https://7daysofcode.io/matricula/responsividade)
