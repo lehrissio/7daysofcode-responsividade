@@ -1,20 +1,33 @@
-# Projeto - 7DaysOfCode - Responsividade
+<h1 align="center">Projeto - 7DaysOfCode - Responsividade</h1>
 
+<p align="center"> Desenvolvido no Desafio 7 Days Of Code de Responsividade da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Utilizei conceitos como Mobile First, media queries, unidades relativas e medidas responsivas em CSS, além de conceitos mais avançados. </p>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Med Clinic**
-| :label: Tecnologias | HTML, CSS, display grid, flexbox
-| :rocket: URL         | [Med Clinic](https://7daysofcode-responsividade-seven.vercel.app/)
-| :fire: Desafio     | [Link do Desafio](https://7daysofcode.io/matricula/responsividade)
+<br>
+<br>
 
-## Detalhes do projeto
-Desenvolvido no Desafio 7 Days Of Code de Responsividade da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Utilizei conceitos como Mobile First, media queries, unidades relativas e medidas responsivas em CSS, além de conceitos mais avançados. 
+<div align="center">
+  <a target="_blank" href="https://7daysofcode-responsividade-seven.vercel.app/">
+          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+  </a>
+</div>
 
-![7daysofcode-responsividade-seven vercel app_](https://github.com/lehrissio/7daysofcode-responsividade/assets/103052994/c7de90bb-42d6-4e41-82a5-c8e50fbe04c9#vitrinedev)
+<div align="center">
+    <h3>Página completa</h3><br>
+    <a target="_blank" href="https://7daysofcode-responsividade-seven.vercel.app/">
+    <img width="80%" src="./assets/print_home.png" alt="portifolio">
+    </a>
+</div>
+<br>
 
-![responsividade](https://github.com/lehrissio/7daysofcode-responsividade/assets/103052994/ae6b5936-a98b-421e-9376-e56596c9fdfc)
+## 💻 Projeto
+Para visualizar a última vesão do projeto clique abaixo:
+<br>
+<br>
+Visite o [projeto](https://7daysofcode-responsividade-seven.vercel.app/) online.
+<br>
+<br>
 
+## 🧠 Desafio
 Todos os dias os desafios foram enviados, sendo eles:
 
 - [x] DIA 1
@@ -40,5 +53,16 @@ Todos os dias os desafios foram enviados, sendo eles:
 
 ### Conclusão:
 Foi possível colocar em prática os conceitos que aprendi durante os cursos da Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)" e consequentemente fixar ainda mais o aprendizado, além de aprender ainda mais!
+
+<br>
+
+---
+
+Feito com muito ♥
+
+Obrigado por visitar meu Github ♥
+Me dê um "FOLLOW" que retribuo, vamos criar novas conexões 😊
+
+Até a próxima! 👋😊
 
 
