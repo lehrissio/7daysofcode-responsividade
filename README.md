@@ -19,6 +19,15 @@
 </div>
 <br>
 
+
+## 🚀 Tecnologias
+* HTML e CSS
+* Display grid
+* Media queries
+* Flexbox
+<br>
+
+
 ## 💻 Projeto
 Para visualizar a última vesão do projeto clique abaixo:
 <br>
