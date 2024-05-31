@@ -1,6 +1,6 @@
 <h1 align="center">Projeto - 7DaysOfCode - Responsividade</h1>
 
-<p align="center"> Desenvolvido no Desafio 7 Days Of Code de Responsividade da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Utilizei conceitos como Mobile First, media queries, unidades relativas e medidas responsivas em CSS, além de conceitos mais avançados. </p>
+<p align="center"> Desenvolvido no Desafio 7 Days Of Code de Responsividade da plataforma de estudos Alura. Durante 7 dias pratiquei o meu conhecimento de HTML e CSS para desenvolver uma página através de um layout no Figma. Utilizei conceitos como Mobile First, media queries, unidades relativas e medidas responsivas em CSS. </p>
 
 <br>
 <br>
