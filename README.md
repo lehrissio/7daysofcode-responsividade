@@ -7,14 +7,14 @@
 
 <div align="center">
   <a target="_blank" href="https://7daysofcode-responsividade-seven.vercel.app/">
-          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+          <img width="90%" src="https://github.com/user-attachments/assets/200d21eb-8fd4-4d0b-8ac9-95408427ca59">
   </a>
 </div>
 
 <div align="center">
     <h3>Página completa</h3><br>
     <a target="_blank" href="https://7daysofcode-responsividade-seven.vercel.app/">
-    <img width="80%" src="./assets/print_home.png" alt="portifolio">
+    <img width="80%" src="./assets/print_home.png">
     </a>
 </div>
 <br>
